@@ -1,0 +1,35 @@
+commit 5f0d7d035f66a25af0676c874c0c72ec256659e6
+Author: yuqing <yuqing.jin@umu.se>
+Date:   Tue Oct 9 14:51:07 2018 +0200
+
+    something modified
+
+commit 8cc56faf3d08c88de9dbe71f22c4eb95b2edbf7b
+Author: yuqing <yuqing.jin@umu.se>
+Date:   Tue Oct 9 14:21:37 2018 +0200
+
+    delete line
+
+commit bc5e19ba9c1f00e74064965c112c1365be3efc04
+Author: yuqing <yuqing.jin@umu.se>
+Date:   Tue Oct 9 14:19:05 2018 +0200
+
+    answer
+
+commit 2cfcfd69e59cc597b710ac10e1b4bd740ddd307e
+Author: yuqing <yuqing.jin@umu.se>
+Date:   Tue Oct 9 14:12:09 2018 +0200
+
+    question about the moon
+
+commit 3491332d0ed6a08057a6bae90924fde5a798f07b
+Author: yuqing <yuqing.jin@umu.se>
+Date:   Tue Oct 9 14:10:15 2018 +0200
+
+    added stuff about base
+
+commit f3f49c55e5c7b6cac06b9349830478f0116d573e
+Author: yuqing <yuqing.jin@umu.se>
+Date:   Tue Oct 9 13:55:51 2018 +0200
+
+    Created the file mars.txt
